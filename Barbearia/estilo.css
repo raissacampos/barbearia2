@@ -107,13 +107,13 @@ ul li {
     margin-top: 5px;
 }
 
-.banner02-titulo{
+.banner02-titulo {
     font-size: 34px;
     color: #092C52;
     margin-top: -20px;
 }
 
-.banner02-paragrafo{
+.banner02-paragrafo {
     font-size: 16px;
     color: #838383;
     font-weight: lighter;
@@ -122,7 +122,7 @@ ul li {
 
 /*fim banner 02*/
 
-.melhor{
+.melhor {
     background-color: #092C52;
     text-align: center;
     margin-top: 30px;
@@ -130,17 +130,17 @@ ul li {
     align-items: center;
 }
 
-.melhor-img{
+.melhor-img {
     margin-top: 60px;
 }
 
-.melhor-titulo{
+.melhor-titulo {
     font-size: 26px;
     color: #F99420;
     margin-top: 30px;
 }
 
-.melhor-nome{
+.melhor-nome {
     font-size: 21px;
     color: white;
     margin-top: 30px;
@@ -151,7 +151,7 @@ ul li {
 
 /*nossos*/
 
-.divisoria{
+.divisoria {
     height: 1px;
     width: 56px;
     background-color: black;
@@ -161,20 +161,20 @@ ul li {
     margin-top: 80px;
 }
 
-.nossos-subtitulo{
+.nossos-subtitulo {
     font-size: 21px;
     color: #092C52;
     text-align: center;
 }
 
-.nossos-titulo{
+.nossos-titulo {
     font-size: 34px;
     color: #092C52;
     text-align: center;
     margin-top: -15px;
 }
 
-.nossos01{
+.nossos01 {
     justify-content: space-between;
     display: inline-block;
     align-items: center;
@@ -183,7 +183,7 @@ ul li {
     margin-top: 80px;
 }
 
-.nossos02{
+.nossos02 {
     justify-content: space-between;
     display: inline-block;
     align-items: center;
@@ -191,7 +191,7 @@ ul li {
     padding-left: 80px;
 }
 
-.nossos03{
+.nossos03 {
     justify-content: space-between;
     display: inline-block;
     align-items: center;
@@ -199,7 +199,7 @@ ul li {
     padding-left: 80px;
 }
 
-.nossos04{
+.nossos04 {
     justify-content: space-between;
     display: inline-block;
     align-items: center;
@@ -207,25 +207,146 @@ ul li {
     padding-left: 80px;
 }
 
-.img01{
+.img01 {
     font-size: 26px;
     color: #092C52;
 }
 
-.nossos-paragrafo{
+.nossos-paragrafo {
     color: #838383;
 }
+
 /*nossos fim*/
 
 /*começo da tabela*/
-.tabelas{
+.tabelas {
     justify-content: space-between;
     display: flex;
     align-items: center;
-    padding-left: 142px;
-    padding-right: 142px;
+    padding-left: 120px;
+    padding-right: 139px;
     margin-top: 54px;
 }
+
+.col-esquerda {
+    border: 20px none;
+}
+
+.col-direita {
+    border: 15px none;
+}
+
 /*fim tabela*/
 
 /*começo cortes*/
+
+.corte-subtitulo {
+    font-size: 21px;
+    color: #092C52;
+    text-align: center;
+}
+
+.corte-titulo {
+    font-size: 34px;
+    color: black;
+    text-align: center;
+    margin-top: -18px;
+}
+
+/*dim cortes*/
+/*começo cabelos*/
+
+.cabelos {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.seta01 {
+    height: 75px;
+    margin-top: -161px;
+    padding-right: 30px;
+}
+
+.seta02 {
+    height: 75px;
+    margin-top: -168px;
+    padding-right: 30px;
+}
+
+.titulo01 {
+    text-align: center;
+    font-size: 26px;
+    padding-right: 51px;
+}
+
+.paragrafo03 {
+    text-align: center;
+    font-size: 16px;
+    color: #838383;
+    padding-right: 51px;
+}
+
+/*fim cabelos*/
+/*começo agenda*/
+
+.agendar {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    color: white;
+    background-color: #092C52;
+    height: 370px;
+}
+
+.agora{
+    color: #F99420;
+    font-size: 34px;
+    text-align: center;
+    padding-left: 335px;
+}
+
+.botao a{
+    padding-right: 374.61px;
+    border: #F99420 solid 15px;
+    background-color: #F99420;
+    font-size: 21px;
+    color: white;
+    text-decoration: none;
+    padding-right: 12px;
+    margin-right: 335px;
+}
+/*fim agenda*/
+/*começo dos profissionais*/
+
+.nove{
+    text-align: center;
+}
+.nove-subtitulo{
+    font-size: 21px;
+    color: #092C52;
+}
+.nove-titulo{
+    font-size: 34px;
+    color:#092C52;
+    margin-top: -11px;
+}
+
+.nove-paragrafo{
+    font-size: 16px;
+    color: #838383;
+    margin-top: 50px;
+}
+.nove02{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding-left: 135px;
+    padding-right: 135px;
+    margin-top: 64px;
+}
+.barber{
+    text-align: center;
+    font-size: 26px;
+    color: black;
+}
