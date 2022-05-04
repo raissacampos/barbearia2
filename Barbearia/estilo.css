@@ -1,0 +1,231 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
+    width: 1440px;
+}
+
+.logo {
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    margin: 10px;
+}
+
+ul li {
+    display: inline-block;
+    list-style: none;
+    justify-content: space-between;
+    padding-left: 20px;
+}
+
+.primario {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    margin: 0 10px;
+    padding-left: 50px;
+}
+
+.img {
+    list-style: none;
+}
+
+/*final menu*/
+
+/*iniciar banner 01*/
+
+
+.banner01-conteudo {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #092C52;
+    color: aliceblue;
+}
+
+.banner01-col-direita {
+    margin: 50px;
+    padding: 50px;
+}
+
+.banner01-col-esquerda {
+    margin-left: 136px;
+}
+
+.banner01-titulo {
+    font-size: 34px;
+    color: white;
+}
+
+.banner01-paragrafo {
+    font-size: 16px;
+    color: white;
+    margin: 60px 0;
+
+}
+
+.botao01 {
+    color: white;
+    background-color: #F99420;
+    border: solid 15px #F99420;
+    text-decoration: none;
+}
+
+/*fim do banner 01*/
+
+.banner02-conteudo {
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner02-col-direita {
+    margin: 50px;
+    padding-right: 150px;
+    margin-top: 80px;
+}
+
+.banner02-col-esquerda {
+    margin-left: 136px;
+}
+
+.divisao {
+    height: 2px;
+    width: 56px;
+    border: 0;
+    background-color: #092C52;
+    margin: 0 0px 0 0;
+}
+
+.banner02-subtitulo {
+    font-size: 21px;
+    color: #092C52;
+    margin-top: 5px;
+}
+
+.banner02-titulo{
+    font-size: 34px;
+    color: #092C52;
+    margin-top: -20px;
+}
+
+.banner02-paragrafo{
+    font-size: 16px;
+    color: #838383;
+    font-weight: lighter;
+    margin-top: 30px;
+}
+
+/*fim banner 02*/
+
+.melhor{
+    background-color: #092C52;
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+    align-items: center;
+}
+
+.melhor-img{
+    margin-top: 60px;
+}
+
+.melhor-titulo{
+    font-size: 26px;
+    color: #F99420;
+    margin-top: 30px;
+}
+
+.melhor-nome{
+    font-size: 21px;
+    color: white;
+    margin-top: 30px;
+    font-weight: lighter;
+}
+
+/*fim do melhor*/
+
+/*nossos*/
+
+.divisoria{
+    height: 1px;
+    width: 56px;
+    background-color: black;
+    border: 2px solid #092C52;
+    width: 70px;
+    border-radius: 10px;
+    margin-top: 80px;
+}
+
+.nossos-subtitulo{
+    font-size: 21px;
+    color: #092C52;
+    text-align: center;
+}
+
+.nossos-titulo{
+    font-size: 34px;
+    color: #092C52;
+    text-align: center;
+    margin-top: -15px;
+}
+
+.nossos01{
+    justify-content: space-between;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    padding-left: 80px;
+    margin-top: 80px;
+}
+
+.nossos02{
+    justify-content: space-between;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    padding-left: 80px;
+}
+
+.nossos03{
+    justify-content: space-between;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    padding-left: 80px;
+}
+
+.nossos04{
+    justify-content: space-between;
+    display: inline-block;
+    align-items: center;
+    text-align: center;
+    padding-left: 80px;
+}
+
+.img01{
+    font-size: 26px;
+    color: #092C52;
+}
+
+.nossos-paragrafo{
+    color: #838383;
+}
+/*nossos fim*/
+
+/*começo da tabela*/
+.tabelas{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding-left: 142px;
+    padding-right: 142px;
+    margin-top: 54px;
+}
+/*fim tabela*/
+
+/*começo cortes*/
