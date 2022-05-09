@@ -350,3 +350,97 @@ ul li {
     font-size: 26px;
     color: black;
 }
+
+.formulario input{
+    background-color: #C4C4C4;
+    width: 413px;
+    height: 40px;
+    margin-top: 15px;
+    border: none;
+}
+select {
+    background-color: #C4C4C4;
+    width: 413px;
+    height: 40px;
+    margin-top: 15px;
+    border: none;
+}
+
+.formulario{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.formulario2 input{
+    background-color: #C4C4C4;
+    width: 413px;
+    height: 40px;
+    margin-top: 15px;
+    border: none;
+}
+
+.formulario2{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.botao2 a{
+    border: #F99420 solid 15px;
+    background-color: #F99420;
+    font-size: 21px;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 580px;
+    margin-right: 580px;
+    margin-top: 30px;
+}
+
+.contato img{
+    align-items: center;
+    margin-right: 235px;
+    margin-left: 235px;
+    margin-top: 80px;
+}
+.logo3 img{
+    align-items: center;
+    margin-right: 638px;
+    margin-left: 638px;
+    margin-top: 80px;
+}
+
+.logos-final{
+    display: flex;
+    align-items: center ;
+    margin-left: 655px;
+    margin-right: 643px;
+    margin-top: 36px;
+    padding-right: 18px;
+}
+
+.face{
+    padding-right: 18px;
+}
+.insta{
+    padding-right: 18px;
+}
+.youtube{
+    padding-right: 18px;
+}
+
+.final{
+    text-align: center;
+    padding-top: 21px;
+}
+.final1{
+    background-color: #C4C4C4;
+    height: 60px;
+    margin-top: 70px;
+    width: 1440px;
+    margin-bottom: 393px;
+}
